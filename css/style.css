@@ -211,7 +211,9 @@ top course style
     margin-left: 14px;
 }
 
-/* footer */
+/*-----------------
+      footer
+----------------*/
 
 footer{
     text-align: center;
@@ -221,7 +223,9 @@ footer{
     margin-top: 40px;
 }
 
-/* media query */
+/*---------------
+   media query 
+--------------*/
 
 @media only screen 
   and (min-device-width: 320px) 
